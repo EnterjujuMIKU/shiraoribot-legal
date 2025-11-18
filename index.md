@@ -1,5 +1,5 @@
 ---
-title: ShiraoriBot – Legal
+# Legal: ShiraoriBot
 ---
 
 # ShiraoriBot – Informations légales
