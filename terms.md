@@ -1,5 +1,5 @@
 ---
-title: Terms of Service – ShiraoriBot
+# Terms of Service: ShiraoriBot
 ---
 
 Dernière mise à jour : 2025-11-18
