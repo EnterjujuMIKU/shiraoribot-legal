@@ -1,5 +1,5 @@
 ---
-rivacy Policy: ShiraoriBot
+# Privacy Policy: ShiraoriBot
 ---
 
 Dernière mise à jour : 2025-11-18
